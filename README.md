@@ -4,13 +4,13 @@ Este projeto é um **Sistema Bancário Simples** desenvolvido em **Java** utiliz
 
 ## Tecnologias Utilizadas
 
-- **Java 17** ou superior
+- **Java 17** 
 - **Spring Boot**
-- **Spring Security** (para autenticação)
-- **MySQL** (para banco de dados)
-- **Hibernate (JPA)** (para mapeamento objeto-relacional)
-- **BCrypt** (para criptografar senhas)
-- **Maven** (para gerenciamento de dependências)
+- **Spring Security** 
+- **MySQL** 
+- **Hibernate (JPA)** 
+- **BCrypt**
+- **Maven** 
 
 ## Funcionalidades
 
@@ -22,16 +22,9 @@ Este projeto é um **Sistema Bancário Simples** desenvolvido em **Java** utiliz
 
 ## Pré-Requisitos
 
-- **Java JDK 17** ou superior
-- **MySQL** instalado
-- **Eclipse IDE** ou **IntelliJ IDEA** com o plugin Spring Boot
-- **Git** (opcional, para versionamento)
+- **Java JDK 17
+- **MySQL** 
+- **Eclipse IDE** com o plugin Spring Boot
+- **Git** 
 
-## Como Rodar o Projeto
 
-### 1. Clonar o Repositório
-
-Primeiro, clone o repositório para o seu ambiente local:
-
-```bash
-git clone https://github.com/SEU_USUARIO/banking-system-java.git
